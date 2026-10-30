@@ -1,0 +1,71 @@
+vehicle_id,customer_id,vehicle_type,vehicle_make,vehicle_model,vehicle_year,fuel_type,vehicle_value,vehicle_age
+V0001,C0056,SUV,Maruti Suzuki,Baleno,2024,Hybrid,1625000,2
+V0002,C0044,Hatchback,Toyota,Innova,2017,CNG,900000,9
+V0003,C0038,Hatchback,Tata,Altroz,2012,Electric,1450000,14
+V0004,C0047,Hatchback,Tata,Punch,2018,Hybrid,950000,8
+V0005,C0017,MUV,Maruti Suzuki,Swift,2023,Hybrid,2050000,3
+V0006,C0044,Sedan,Mahindra,Scorpio,2023,Electric,550000,3
+V0007,C0043,SUV,Tata,Altroz,2021,Petrol,2650000,5
+V0008,C0058,SUV,Tata,Altroz,2020,Electric,1375000,6
+V0009,C0026,Sedan,Mahindra,XUV300,2016,Electric,2475000,10
+V0010,C0025,Sedan,Mahindra,Scorpio,2023,Electric,2100000,3
+V0011,C0054,SUV,Maruti Suzuki,Swift,2016,Electric,2200000,10
+V0012,C0039,MUV,Mahindra,Scorpio,2017,Electric,2500000,9
+V0013,C0014,Sedan,Toyota,Innova,2019,CNG,1975000,7
+V0014,C0043,SUV,Mahindra,XUV300,2021,Diesel,2500000,5
+V0015,C0020,Sedan,Hyundai,i20,2024,Petrol,475000,2
+V0016,C0016,Hatchback,Honda,Amaze,2021,Electric,2350000,5
+V0017,C0037,MUV,Hyundai,Creta,2023,Electric,1125000,3
+V0018,C0010,Hatchback,Mahindra,XUV300,2023,Electric,1050000,3
+V0019,C0012,MUV,Mahindra,XUV300,2020,Hybrid,1125000,6
+V0020,C0059,Sedan,Maruti Suzuki,Baleno,2019,Hybrid,2125000,7
+V0021,C0039,MUV,Tata,Altroz,2024,Hybrid,1700000,2
+V0022,C0054,Sedan,Toyota,Glanza,2019,Electric,1175000,7
+V0023,C0049,SUV,Hyundai,Venue,2025,Electric,2350000,1
+V0024,C0016,Hatchback,Tata,Altroz,2019,CNG,1100000,7
+V0025,C0018,Hatchback,Tata,Nexon,2017,Diesel,1075000,9
+V0026,C0025,Sedan,Mahindra,XUV300,2014,Electric,1650000,12
+V0027,C0022,MUV,Toyota,Innova,2019,Diesel,1675000,7
+V0028,C0025,Hatchback,Toyota,Glanza,2023,Electric,350000,3
+V0029,C0023,MUV,Tata,Punch,2024,Hybrid,2725000,2
+V0030,C0048,Sedan,Toyota,Glanza,2024,Diesel,1200000,2
+V0031,C0028,MUV,Honda,Amaze,2012,Electric,2650000,14
+V0032,C0011,Sedan,Honda,City,2026,Electric,2225000,0
+V0033,C0037,Hatchback,Mahindra,Scorpio,2012,Diesel,1825000,14
+V0034,C0012,MUV,Maruti Suzuki,Baleno,2016,Diesel,1800000,10
+V0035,C0021,MUV,Tata,Punch,2024,Electric,1150000,2
+V0036,C0054,Hatchback,Maruti Suzuki,Brezza,2019,Hybrid,500000,7
+V0037,C0023,Hatchback,Hyundai,Venue,2022,Petrol,2750000,4
+V0038,C0002,Hatchback,Hyundai,Venue,2015,Diesel,1100000,11
+V0039,C0009,Hatchback,Honda,City,2022,Electric,2575000,4
+V0040,C0017,Hatchback,Tata,Nexon,2014,CNG,675000,12
+V0041,C0038,SUV,Maruti Suzuki,Brezza,2026,Electric,1600000,0
+V0042,C0046,Sedan,Hyundai,i20,2013,CNG,2525000,13
+V0043,C0039,Hatchback,Maruti Suzuki,Baleno,2024,Hybrid,1700000,2
+V0044,C0043,SUV,Tata,Nexon,2013,Electric,1900000,13
+V0045,C0007,MUV,Honda,City,2017,Electric,900000,9
+V0046,C0047,SUV,Toyota,Glanza,2022,Electric,1725000,4
+V0047,C0053,SUV,Mahindra,Scorpio,2021,Diesel,625000,5
+V0048,C0018,MUV,Honda,Amaze,2015,CNG,425000,11
+V0049,C0032,MUV,Tata,Nexon,2014,CNG,1175000,12
+V0050,C0022,SUV,Tata,Altroz,2026,Petrol,2000000,0
+V0051,C0013,MUV,Maruti Suzuki,Baleno,2015,Hybrid,2775000,11
+V0052,C0016,MUV,Mahindra,Scorpio,2019,Petrol,625000,7
+V0053,C0019,Sedan,Hyundai,Creta,2018,Hybrid,1525000,8
+V0054,C0031,SUV,Toyota,Glanza,2020,Hybrid,1400000,6
+V0055,C0023,SUV,Mahindra,Scorpio,2019,CNG,1075000,7
+V0056,C0008,SUV,Mahindra,XUV300,2015,Hybrid,2775000,11
+V0057,C0045,Sedan,Hyundai,Venue,2015,Electric,1225000,11
+V0058,C0047,SUV,Toyota,Innova,2024,Diesel,1275000,2
+V0059,C0015,SUV,Tata,Nexon,2014,Hybrid,750000,12
+V0060,C0018,SUV,Maruti Suzuki,Brezza,2012,Diesel,2375000,14
+V0061,C0056,Hatchback,Honda,Amaze,2013,Electric,1875000,13
+V0062,C0029,Hatchback,Tata,Punch,2014,Electric,700000,12
+V0063,C0053,MUV,Maruti Suzuki,Swift,2018,Hybrid,2350000,8
+V0064,C0044,Sedan,Maruti Suzuki,Brezza,2014,CNG,600000,12
+V0065,C0016,MUV,Maruti Suzuki,Brezza,2020,Hybrid,2325000,6
+V0066,C0015,MUV,Toyota,Glanza,2018,CNG,2225000,8
+V0067,C0028,Hatchback,Tata,Altroz,2021,Petrol,2775000,5
+V0068,C0014,SUV,Mahindra,XUV300,2015,Diesel,1100000,11
+V0069,C0012,Sedan,Toyota,Innova,2013,Electric,1775000,13
+V0070,C0045,SUV,Toyota,Innova,2019,Diesel,1250000,7

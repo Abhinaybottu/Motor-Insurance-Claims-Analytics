@@ -1,0 +1,61 @@
+customer_id,customer_name,gender,date_of_birth,age,city,state,occupation
+C0001,Arjun Sharma,Male,1958-06-27,68,Bengaluru,Karnataka,Business Owner
+C0002,Arjun Das,Male,2000-01-06,26,Mumbai,Maharashtra,Engineer
+C0003,Aditya Kumar,Male,1991-02-21,35,Mysuru,Karnataka,Analyst
+C0004,Pooja Nair,Female,1991-03-22,35,Mysuru,Karnataka,Engineer
+C0005,Ananya Nair,Male,1984-06-18,42,Visakhapatnam,Andhra Pradesh,Driver
+C0006,Arjun Reddy,Female,1981-09-20,45,Pune,Maharashtra,Doctor
+C0007,Vivaan Singh,Male,1971-09-09,55,Mumbai,Maharashtra,Doctor
+C0008,Anil Iyer,Male,1969-08-05,57,Vijayawada,Andhra Pradesh,Analyst
+C0009,Kavya Reddy,Female,1991-09-16,35,Mumbai,Maharashtra,Sales Executive
+C0010,Rohan Patel,Female,1982-05-11,44,Bengaluru,Karnataka,Teacher
+C0011,Anil Patel,Female,1971-07-09,55,Visakhapatnam,Andhra Pradesh,Accountant
+C0012,Priya Das,Male,1990-11-21,35,Pune,Maharashtra,Analyst
+C0013,Vivaan Iyer,Male,1980-06-24,46,Vijayawada,Andhra Pradesh,Driver
+C0014,Diya Singh,Male,1979-12-15,46,Delhi,Delhi,Doctor
+C0015,Sai Kumar,Female,1958-01-31,68,Kochi,Kerala,Accountant
+C0016,Nikhil Nair,Female,1982-07-19,44,Visakhapatnam,Andhra Pradesh,Teacher
+C0017,Vivaan Reddy,Female,1995-12-19,30,Visakhapatnam,Andhra Pradesh,Teacher
+C0018,Neha Nair,Female,1967-03-18,59,Kochi,Kerala,Engineer
+C0019,Arjun Das,Male,1987-12-14,38,Pune,Maharashtra,Doctor
+C0020,Sneha Patel,Male,1976-11-08,50,Chennai,Tamil Nadu,Teacher
+C0021,Kavya Das,Female,1967-08-03,59,Visakhapatnam,Andhra Pradesh,Business Owner
+C0022,Pooja Das,Female,2004-12-31,21,Pune,Maharashtra,Engineer
+C0023,Arjun Iyer,Male,1986-07-08,40,Hyderabad,Telangana,Teacher
+C0024,Aditya Singh,Male,2001-02-04,25,Visakhapatnam,Andhra Pradesh,Sales Executive
+C0025,Pooja Patel,Female,1989-02-09,37,Mysuru,Karnataka,Analyst
+C0026,Pooja Kumar,Female,1960-06-07,66,Mumbai,Maharashtra,Sales Executive
+C0027,Vikram Singh,Male,1998-07-01,28,Bengaluru,Karnataka,Driver
+C0028,Aarav Verma,Male,1970-07-17,56,Mysuru,Karnataka,Engineer
+C0029,Aditya Sharma,Female,1991-10-03,35,Hyderabad,Telangana,Teacher
+C0030,Vikram Kumar,Male,1987-11-30,38,Delhi,Delhi,Business Owner
+C0031,Nikhil Verma,Female,1975-07-09,51,Delhi,Delhi,Analyst
+C0032,Arjun Reddy,Female,1963-04-07,63,Pune,Maharashtra,Accountant
+C0033,Kiran Sharma,Male,1961-12-14,64,Vijayawada,Andhra Pradesh,Accountant
+C0034,Rahul Reddy,Female,1990-07-31,36,Bengaluru,Karnataka,Business Owner
+C0035,Sneha Patel,Male,1988-03-15,38,Bengaluru,Karnataka,Sales Executive
+C0036,Pooja Reddy,Male,2001-12-05,24,Kochi,Kerala,Teacher
+C0037,Ishita Patel,Male,1979-03-06,47,Delhi,Delhi,Accountant
+C0038,Vivaan Patel,Female,1981-11-07,45,Mumbai,Maharashtra,Sales Executive
+C0039,Kavya Nair,Male,1961-02-02,65,Delhi,Delhi,Analyst
+C0040,Kavya Kumar,Male,2002-01-11,24,Kochi,Kerala,Driver
+C0041,Vivaan Sharma,Male,1968-03-12,58,Kochi,Kerala,Engineer
+C0042,Vikram Reddy,Male,1994-10-01,32,Mysuru,Karnataka,Analyst
+C0043,Neha Reddy,Male,1969-07-08,57,Mysuru,Karnataka,Teacher
+C0044,Sneha Verma,Female,1969-02-17,57,Pune,Maharashtra,Analyst
+C0045,Rahul Kumar,Female,1989-04-18,37,Visakhapatnam,Andhra Pradesh,Sales Executive
+C0046,Rahul Reddy,Male,2005-03-13,21,Mysuru,Karnataka,Teacher
+C0047,Pooja Kumar,Female,1973-06-28,53,Visakhapatnam,Andhra Pradesh,Teacher
+C0048,Ishita Iyer,Female,1987-08-19,39,Delhi,Delhi,Engineer
+C0049,Pooja Rao,Female,1963-09-21,63,Visakhapatnam,Andhra Pradesh,Teacher
+C0050,Arjun Das,Male,1996-06-18,30,Chennai,Tamil Nadu,Driver
+C0051,Diya Rao,Male,1973-03-05,53,Chennai,Tamil Nadu,Teacher
+C0052,Sneha Rao,Male,2003-11-02,23,Pune,Maharashtra,Doctor
+C0053,Ananya Singh,Male,1969-11-15,56,Mumbai,Maharashtra,Teacher
+C0054,Aditya Patel,Male,1971-10-24,55,Pune,Maharashtra,Accountant
+C0055,Sai Sharma,Female,1986-05-05,40,Hyderabad,Telangana,Analyst
+C0056,Ishita Reddy,Male,1983-01-26,43,Mumbai,Maharashtra,Analyst
+C0057,Ananya Patel,Female,1979-10-28,47,Visakhapatnam,Andhra Pradesh,Accountant
+C0058,Ishita Rao,Female,1994-11-11,31,Vijayawada,Andhra Pradesh,Engineer
+C0059,Meera Kumar,Female,1993-03-15,33,Pune,Maharashtra,Analyst
+C0060,Ishita Sharma,Female,1963-08-07,63,Mumbai,Maharashtra,Doctor
